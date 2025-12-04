@@ -1,0 +1,39 @@
+#signincontainer{
+    margin: 0 auto;
+    display:grid;
+    border: 5px solid rgb(153,93,70);
+    grid-template-columns: 100px 400px 100px;
+    background-color: rgb(232,191,152);
+    color:rgb(69,81,103);
+    width:600px;
+    height:800px;
+}
+
+#signinlogo{
+    width:100%;
+    aspect-ratio: 1;
+}
+
+#signinwelcome{
+
+}
+
+#unamelabel{
+
+}
+
+#unameinput{
+
+}
+
+#pwrdlabel{
+
+}
+
+#pwrdinput{
+
+}
+
+#loginbutton{
+
+}
